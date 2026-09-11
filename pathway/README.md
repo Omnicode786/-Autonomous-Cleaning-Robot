@@ -2,6 +2,8 @@
 
 This folder is the detailed build-and-learning sequence for the project. Work through the files **in order**. Each stage has a specific output and acceptance test so we do not jump ahead with half-working subsystems.
 
+> 🎥 **Prefer videos/playlists? Start here:** [Video-First Learning Syllabus](./VIDEO-FIRST-LEARNING.md). It maps curated playlists and focused videos directly to every stage below. Use the stage files as the hands-on build manuals and the video syllabus as the main learning route.
+
 ## Final Architecture We Are Building
 
 The iPhone is **not mounted on the robot**.
