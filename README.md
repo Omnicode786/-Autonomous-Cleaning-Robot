@@ -108,6 +108,8 @@ Before buying encoders, verify that they can physically mount to the existing mo
 
 Detailed stage guides are in [`pathway/`](./pathway/README.md). Complete them in order.
 
+> 🎥 **Video-first route:** [Open the Video-First Learning Syllabus](./pathway/VIDEO-FIRST-LEARNING.md). It contains curated playlists and focused videos for every stage. Use it as the primary learning route, and use the detailed stage files as the actual build/lab manuals.
+
 | Stage | Guide | Finished when... |
 |---:|---|---|
 | 1 | [Linux, Git & Workspace](./pathway/01-linux-git-workspace.md) | Development machine and repo workflow are ready |
